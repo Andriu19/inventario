@@ -1,0 +1,17 @@
+com\inventory\util\TestDBConnection.class
+com\inventory\service\ProductService.class
+com\invertory\controller\InventoryController.class
+com\inventory\model\User.class
+com\inventory\model\Movement.class
+com\inventory\dao\UserDAO.class
+com\inventory\service\UserService.class
+com\invertory\controller\MovementController.class
+com\inventory\model\Product.class
+com\inventory\util\DBConnection.class
+com\invertory\controller\LoginController.class
+com\inventory\dao\MovementDAO.class
+com\inventory\servlet\LoginServlet.class
+com\inventory\dao\ProductDAO.class
+com\invertory\controller\UserController.class
+com\inventory\servlet\DashboardServlet.class
+com\inventory\controller\InventoryServlet.class
